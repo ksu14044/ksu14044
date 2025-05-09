@@ -18,11 +18,8 @@
 - Notion: https://www.notion.so/Kim-Si-Wook-1b99724cb96780ba9e8cfa774db724ee
 
 ## 📂 Projects
-여기에서 제 주요 프로젝트들을 확인하실 수 있습니다. 더 많은 정보는 각 프로젝트의 리포지토리에서 찾아보세요!
 
-- [Project 1](https://github.com/ksu14044/project1) - 설명
-- [Project 2](https://github.com/ksu14044/project2) - 설명
+- [DreamPath Project](https://github.com/PJ-DreamPath) - 개발자 취업 준비생들을 위한 멘토링 중계 사이트 제작 프로젝트
 
 ---
 
-이런 느낌으로 `README.md` 파일을 작성하면 깔끔하면서도 당신의 프로필을 잘 소개할 수 있을 거예요! 추가하고 싶은 내용이나 스타일을 변경하고 싶으면 알려 주세요. 😊
